@@ -56,8 +56,8 @@ Across e-commerce, healthcare, education, and service platforms — each project
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDHAMED1S&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDHAMED1S&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MOHAMEDHAMED1S&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_title=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MOHAMEDHAMED1S&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" />
 </p>
 
 ---
